@@ -1,0 +1,277 @@
+Cover@1
+Half Title@2
+Title@4
+Copyright@5
+Contents@6
+Preface@12
+Notations and Conventions@20
+Editor’s Foreword@23
+Part I: Feynman Diagrams and Quantum Electrodynamics@24
+  1 Invitation: Pair Production in e + e - Annihilation@26
+  2 The Klein-Gordon Field@36
+    2.1 The Necessity of the Field Viewpoint@36
+    2.2 Elements of Classical Field Theory@38
+      Lagrangian Field Theory@38
+      Hamiltonian Field Theory@39
+      Noether’s Theorem@40
+    2.3 The Klein-Gordon Field as Harmonic Oscillators@42
+    2.4 The Klein-Gordon Field in Space-Time@48
+      Causality@50
+      The Klein-Gordon Propagator@52
+      Particle Creation by a Classical Source@55
+    Problems@56
+  3 The Dirac Field@58
+    3.1 Lorentz Invariance in Wave Equations@58
+    3.2 The Dirac Equation@63
+      Weyl Spinors@66
+    3.3 Free-Particle Solutions of the Dirac Equation@68
+      Spin Sums@71
+    3.4 Dirac Matrices and Dirac Field Bilinears@72
+    3.5 Quantization of the Dirac Field@75
+      Spin and Statistics@75
+      The Dirac Propagator@85
+    3.6 Discrete Symmetries of the Dirac Theory@87
+      Parity@88
+      Time Reversal@90
+      Charge Conjugation@93
+    Problems@94
+  4 Interacting Fields and Feynman Diagrams@100
+    4.1 Perturbation Theory—Philosophy and Examples@100
+    4.2 Perturbation Expansion of Correlation Functions@105
+    4.3 Wick’s Theorem@111
+    4.4 Feynman Diagrams@113
+    4.5 Cross Sections and the S-Matrix@122
+    4.6 Computing S-Matrix Elements from Feynman Diagrams@131
+    4.7 Feynman Rules for Fermions@138
+      Yukawa Theory@139
+    4.8 Feynman Rules for Quantum Electrodynamics@146
+      The Coulomb Potential@148
+    Problems@149
+  5 Elementary Processes of Quantum Electrodynamics@154
+    5.1 e + e - → μ + μ - : Introduction@154
+      Trace Technology@156
+      Unpolarized Cross Section@158
+      e+ e- → Hadrons@162
+    5.2 e+ e- → μ + μ - : Helicity Structure@164
+    5.3 e+ e- → μ + μ - : Nonrelativistic Limit@169
+      Bound States@171
+      Vector Meson Production and Decay@173
+    5.4 Crossing Symmetry@176
+      Electron-Muon Scattering@176
+      Mandelstam Variables@179
+    5.5 Compton Scattering@181
+      Photon Polarization Sums@182
+      The Klein-Nishina Formula@184
+      High-Energy Behavior@187
+      Pair Annihilation into Photons@191
+    Problems@192
+  6 Radiative Corrections: Introduction@198
+    6.1 Soft Bremsstrahlung@199
+      Classical Computation@200
+      Quantum Computation@205
+    6.2 The Electron Vertex Function: Formal Structure@207
+    6.3 The Electron Vertex Function: Evaluation@212
+      Feynman Parameters@212
+      Precision Tests of QED@219
+    6.4 The Electron Vertex Function: Infrared Divergence@222
+    6.5 Summation and Interpretation of Infrared Divergences@225
+    Problems@231
+  7 Radiative Corrections: Some Formal Developments@234
+    7.1 Field-Strength Renormalization@234
+      The Electron Self-Energy@239
+    7.2 The LSZ Reduction Formula@245
+    7.3 The Optical Theorem@253
+      The Optical Theorem for Feynman Diagrams@255
+      Unstable Particles@259
+    7.4 The Ward-Takahashi Identity@261
+    7.5 Renormalization of the Electric Charge@267
+      Dimensional Regularization@272
+    Problems@280
+  Final Project: Radiation of Gluon Jets@282
+Part II: Renormalization@286
+  8 Invitation: Ultraviolet Cutoffs and Critical Fluctuations@288
+  9 Functional Methods@298
+    9.1 Path Integrals in Quantum Mechanics@298
+    9.2 Functional Quantization of Scalar Fields@305
+      Correlation Functions@306
+      Feynman Rules@307
+      Functional Derivatives and the Generating Functional@312
+    9.3 Quantum Field Theory and Statistical Mechanics@315
+    9.4 Quantization of the Electromagnetic Field@317
+    9.5 Functional Quantization of Spinor Fields@321
+      Anticommuting Numbers@322
+      The Dirac Propagator@324
+      Generating Functional for the Dirac Field@325
+      QED@326
+      Functional Determinants@327
+    9.6 Symmetries in the Functional Formalism@329
+      Equations of Motion@329
+      Conservation Laws@331
+      The Ward-Takahashi Identity@334
+    Problems@335
+  10 Systematics of Renormalization@338
+    10.1 Counting of Ultraviolet Divergences@338
+    10.2 Renormalized Perturbation Theory@346
+      One-Loop Structure of ϕ4 Theory@349
+    10.3 Renormalization of Quantum Electrodynamics@353
+      One-Loop Structure of QED@355
+    10.4 Renormalization Beyond the Leading Order@358
+    10.5 A Two-Loop Example@361
+    Problems@367
+  11 Renormalization and Symmetry@370
+    11.1 Spontaneous Symmetry Breaking@371
+      The Linear Sigma Model@372
+      Goldstone’s Theorem@374
+    11.2 Renormalization and Symmetry: An Explicit Example@375
+    11.3 The Effective Action@387
+    11.4 Computation of the Effective Action@393
+      The Effective Action in the Linear Sigma Model@396
+    11.5 The Effective Action as a Generating Functional@402
+    11.6 Renormalization and Symmetry: General Analysis@406
+      Goldstone’s Theorem Revisited@411
+    Problems@412
+  12 The Renormalization Group@416
+    12.1 Wilson’s Approach to Renormalization Theory@417
+    12.2 The Callan-Symanzik Equation@429
+      Renormalization Conditions@430
+      The Callan-Symanzik Equation@433
+      Computation of β and γ@434
+      The Meaning of β and γ@439
+    12.3 Evolution of Coupling Constants@441
+      Solution of the Callan-Symanzik Equation@441
+      An Application to QED@446
+      Alternatives for the Running of Coupling Constants@447
+    12.4 Renormalization of Local Operators@451
+    12.5 Evolution of Mass Parameters@455
+      Critical Exponents: A First Look@458
+    Problems@461
+  13 Critical Exponents and Scalar Field Theory@462
+    13.1 Theory of Critical Exponents@463
+      Exponents of the Spin Correlation Function@465
+      Exponents of Thermodynamic Functions@466
+      Values of the Critical Exponents@470
+    13.2 Critical Behavior in Four Dimensions@474
+    13.3 The Nonlinear Sigma Model@477
+    Problems@489
+  Final Project: The Coleman-Weinberg Potential@492
+Part III: Non-Abelian Gauge Theories@494
+  14 Invitation: The Parton Model of Hadron Structure@496
+  15 Non-Abelian Gauge Invariance@504
+    15.1 The Geometry of Gauge Invariance@505
+    15.2 The Yang-Mills Lagrangian@509
+    15.3 The Gauge-Invariant Wilson Loop@514
+    15.4 Basic Facts About Lie Algebras@518
+      Classification of Lie Algebras@519
+      Representations@520
+      The Casimir Operator@523
+    Problems@525
+  16 Quantization of Non-Abelian Gauge Theories@528
+    16.1 Interactions of Non-Abelian Gauge Bosons@529
+      Feynman Rules for Fermions and Gauge Bosons@529
+      Equality of Coupling Constants@531
+      A Flaw in the Argument@533
+    16.2 The Faddeev-Popov Lagrangian@535
+    16.3 Ghosts and Unitarity@538
+    16.4 BRST Symmetry@540
+    16.5 One-Loop Divergences of Non-Abelian Gauge Theory@544
+      The Gauge Boson Self-Energy@545
+      The ß Function@550
+      Relations among Counterterms@554
+    16.6 Asymptotic Freedom: The Background Field Method@556
+    16.7 Asymptotic Freedom: A Qualitative Explanation@564
+    Problems@567
+  17 Quantum Chromodynamics@568
+    17.1 From Quarks to QCD@568
+    17.2 e+ e- Annihilation into Hadrons@571
+      Total Cross Section@572
+      The Running of αs@574
+      Gluon Emission@576
+    17.3 Deep Inelastic Scattering@578
+      Deep Inelastic Neutrino Scattering@582
+      The Distribution Functions@585
+    17.4 Hard-Scattering Processes in Hadron Collisions@586
+      Lepton Pair Production@587
+      Kinematics@589
+      Jet Pair Production@591
+    17.5 Parton Evolution@597
+      The Equivalent Photon Approximation@601
+      Multiple Splittings@605
+      Evolution Equations for QED@609
+      The Altarelli-Parisi Equations@610
+    17.6 Measurements of αs@616
+    Problems@618
+  18 Operator Products and Effective Vertices@622
+    18.1 Renormalization of the Quark Mass Parameter@622
+    18.2 QCD Renormalization of the Weak Interactions@628
+    18.3 The Operator Product Expansion@635
+    18.4 Operator Analysis of e+e- Annihilation@638
+    18.5 Operator Analysis of Deep Inelastic Scattering@644
+      Kinematics@646
+      Expansion of the Operator Product@650
+      The Dispersion Integral@655
+      Operator Rescaling@658
+      Operator Mixing@661
+      Relation to the Altarelli-Parisi Equations@666
+    Problems@670
+  19 Perturbation Theory Anomalies@674
+    19.1 The Axial Current in Two Dimensions@674
+      Vacuum Polarization Diagrams@676
+      The Current Operator Equation@678
+      An Example with Fermion Number Nonconservation@680
+    19.2 The Axial Current in Four Dimensions@682
+      The Current Operator Equation@682
+      Triangle Diagrams@684
+      Chiral Transformation of the Functional Integral@687
+    19.3 Goldstone Bosons and Chiral Symmetries in QCD@690
+      Spontaneous Breaking of Chiral Symmetry@692
+      Anomalies of Chiral Currents@695
+    19.4 Chiral Anomalies and Chiral Gauge Theories@699
+    19.5 Anomalous Breaking of Scale Invariance@705
+    Problems@709
+  20 Gauge Theories with Spontaneous Symmetry Breaking@712
+    20.1 The Higgs Mechanism@713
+      An Abelian Example@713
+      Systematics of the Higgs Mechanism@715
+      Non-Abelian Examples@717
+      Formal Description@720
+    20.2 The Glashow-Weinberg-Salam Theory of Weak Interactions@723
+      Gauge Boson Masses@724
+      Coupling to Fermions@726
+      Experimental Consequences of the Glashow-Weinberg-Salam Theory@730
+      Fermion Mass Terms@736
+      The Higgs Boson@738
+      A Higgs Sector?@740
+    20.3 Symmetries of the Theory of Quarks and Leptons@742
+    Problems@751
+  21 Quantization of Spontaneously Broken Gauge Theories@754
+    21.1 The R£ Gauges@755
+      An Abelian Example@755
+      £ Dependence in Perturbation Theory@757
+      Non-Abelian Analysis@762
+    21.2 The Goldstone Boson Equivalence Theorem@766
+      Formal Aspects of Goldstone Boson Equivalence@767
+      Top Quark Decay@770
+      e+ e- —» W+W-@773
+    21.3 One-Loop Corrections in Weak-Interaction Gauge Theory@781
+      Theoretical Orientation, and a Specific Problem@781
+      Influence of Heavy Quark Corrections@784
+      Computation of Vacuum Polarization Amplitudes@789
+      The Effect of mt@793
+    Problems@796
+  Final Project: Decays of the Higgs Boson@798
+Epilogue@802
+  22 Quantum Field Theory at the Frontier@804
+    22.1 Strong Strong Interactions@805
+    22.2 Grand Unification and its Paradoxes@809
+    22.3 Exact Solutions in Quantum Field Theory@814
+    22.4 Supersymmetry@818
+    22.5 Toward an Ultimate Theory of Nature@821
+Appendix: Reference Formulae@824
+  A.1 Feynman Rules@824
+  A .2 Polarizations of External Particles@826
+  A.3 Numerator Algebra@828
+  A.4 Loop Integrals and Dimensional Regularization@829
+  A.5 Cross Sections and Decay Rates@831
+  A.6 Physical Constants and Conversion Factors@832
+Bibliography@834
+Index@840
